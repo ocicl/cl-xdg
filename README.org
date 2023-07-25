@@ -1,0 +1,10 @@
+* cl-xdg
+
+XDG desktop file parsing for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eadmund/cl-xdg.git   |
+| commit  | 9e43f42  |
+| systems | cl-xdg |
+|---------+-------------------------------------------|
+
